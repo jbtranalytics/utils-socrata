@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gunicorn
+sodapy
+pandas
+google-cloud
+google-cloud-bigquery
